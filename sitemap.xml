@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://wildbit.github.io/smtp-field-manual/code/550</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/code/471</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/code/554</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/gmail</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/att</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/comcast</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/hotmail</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/icloud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/mailru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/outlook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/yandex</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/provider/zoho</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/contribute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://wildbit.github.io/smtp-field-manual/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/code/471</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/code/550</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/code/554</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/gmail</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/att</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/comcast</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/hotmail</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/icloud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/mailru</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/outlook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/yandex</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/provider/zoho</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/contribute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
