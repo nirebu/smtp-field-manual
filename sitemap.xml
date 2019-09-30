@@ -27,4 +27,5 @@
 <url> <loc>https://smtpfieldmanual.com/spamfilter/zerospam</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://smtpfieldmanual.com/contribute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://smtpfieldmanual.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://smtpfieldmanual.com/why/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
