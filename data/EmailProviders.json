@@ -40,6 +40,11 @@
     "slug": "/yandex"
   },
   {
+    "id": "yahoo",
+    "name": "Yahoo",
+    "slug": "/yahoo"
+  },
+  {
     "id": "zoho",
     "name": "Zoho",
     "slug": "/zoho"
